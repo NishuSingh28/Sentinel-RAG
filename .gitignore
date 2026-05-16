@@ -6,3 +6,6 @@ vector_db/
 chroma/
 feedback_log.json
 audit_log.jsonl
+data/
+knowledge_graph.pkl
+bm25_corpus.json
